@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK">
-<img src="Blender%20Force/preview.png" width="600">
+<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<img src="Blender%20Force/Force.png" width="600">
 </a>
 </p>
 
@@ -84,8 +84,8 @@ This project is licensed under the MIT License.
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK">
-<img src="Blender%20Force/preview.png" width="600">
+<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<img src="Blender%20Force/Force.png" width="600">
 </a>
 </p>
 
