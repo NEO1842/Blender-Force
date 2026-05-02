@@ -1,57 +1,143 @@
----English---
+<h1 align="center">Blender Force - Render</h1>
 
-This is a Blender scene that visualizes dynamic particle flow
+<p align="center">
+✨ Dynamic particle flow shaped by invisible forces
+</p>
+
+---
+
+## 🎬 Preview
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<img src="Force.png" width="600">
+</a>
+</p>
+
+<p align="center">
+Click the image to watch the animation
+</p>
+
+---
+
+## 🌌 Overview
+
+This scene visualizes a continuous flow of particles
 controlled by force fields.
 
 Particles behave like streams of energy,
-continuously guided and shaped by invisible forces,
-creating smooth and evolving motion.
+forming smooth, evolving patterns that feel organic and alive.
 
-Rendering Settings:
+The motion is shaped by invisible forces,
+creating a dynamic and immersive visual experience.
 
-Rendering Engine: Eevee  
+---
 
-Sampling: 64  
+## ⚙️ Rendering Settings
 
-Denoising: None  
+- **Engine**: Eevee  
+- **Sampling**: 64  
+- **Bloom**: Enabled  
+- **Denoising**: None  
 
-Bloom: Enabled  
+- **Resolution**: 4096 × 4096 (4K)  
+- **Output Format**: MP4 (H.264)  
 
-Resolution: 4096×4096 (4K)  
+---
 
-Output Format: MP4 (H.264)  
+## 🧠 Technical Notes
 
-Check out the animation:
+- Uses force fields to control particle direction and flow  
+- Vortex field creates rotational motion  
+- Force field influences particle attraction and movement  
+- Designed for real-time rendering performance  
+
+---
+
+## 💡 Tips
+
+- Adjust force strength to change flow intensity  
+- Modify vortex settings for different swirl patterns  
+- Lower sampling for faster previews  
+
+---
+
+## 🎥 Animation
+
+Watch here:  
 
 https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing
 
 ---
 
----日本語---
+---
 
-これは、フォースフィールドによって粒子の流れを制御し、
-ダイナミックな動きを可視化するBlenderシーンです。
+<h1 align="center">Blender Force - レンダー</h1>
+
+<p align="center">
+✨ 見えない力によって形作られるダイナミックな粒子の流れ
+</p>
+
+---
+
+## 🎬 プレビュー
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<img src="Force.png" width="600">
+</a>
+</p>
+
+<p align="center">
+画像をクリックするとアニメーションが再生されます
+</p>
+
+---
+
+## 🌌 概要
+
+このシーンは、フォースフィールドによって制御された
+粒子の連続的な流れを可視化したものです。
 
 粒子はエネルギーの流れのように振る舞い、
-見えない力によって導かれながら、
-滑らかで変化し続ける動きを生み出します。
+滑らかで変化し続けるパターンを生み出します。
 
-レンダリング設定:
+見えない力によって形作られることで、
+有機的で生命的な動きを表現しています。
 
-レンダリングエンジン：Eevee  
+---
 
-サンプリング：64  
+## ⚙️ レンダリング設定
 
-ノイズ除去：なし  
+- **レンダリングエンジン**: Eevee  
+- **サンプリング**: 64  
+- **ブルーム**: 有効  
+- **ノイズ除去**: なし  
 
-ブルーム：有効  
+- **解像度**: 4096 × 4096（4K）  
+- **出力形式**: MP4（H.264）  
 
-解像度：4096×4096（4K）  
+---
 
-出力形式：MP4（H.264）  
+## 🧠 技術メモ
 
-アニメーションはこちら：
+- フォースフィールドで粒子の流れを制御  
+- 渦（Vortex）による回転運動  
+- フォースによる引力・動きの制御  
+- リアルタイムレンダリングを意識した設計  
+
+---
+
+## 💡 ヒント
+
+- フォースの強さを変えることで動きの印象が変化  
+- 渦の設定で流れのパターンを調整可能  
+- プレビュー時はサンプリングを下げて高速化  
+
+---
+
+## 🎥 アニメーション
+
+こちらから視聴できます：  
 
 https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing
-
-![Preview](Force.png)
