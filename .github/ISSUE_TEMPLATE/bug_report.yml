@@ -1,0 +1,51 @@
+name: 🐛 Bug Report
+description: Report a problem or unexpected behavior
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug 🙌
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 🧩 What happened?
+      description: Describe the issue clearly
+      placeholder: Something is not working...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔁 Steps to reproduce
+      description: How can we reproduce this?
+      placeholder: |
+        1. Open Blender
+        2. Load file
+        3. Crash happens
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: ✅ Expected behavior
+      description: What should happen?
+      placeholder: It should work normally
+
+  - type: input
+    id: blender
+    attributes:
+      label: 🧰 Blender Version
+      placeholder: e.g. 4.2
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 📎 Additional context
+      description: Screenshots, logs, etc.
