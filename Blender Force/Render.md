@@ -36,11 +36,16 @@ creating a dynamic and immersive visual experience.
 ## ⚙️ Rendering Settings
 
 - **Engine**: Eevee  
+
 - **Sampling**: 64  
+
 - **Bloom**: Enabled  
+
 - **Denoising**: None  
 
 - **Resolution**: 4096 × 4096 (4K)  
+
+
 - **Output Format**: MP4 (H.264)  
 
 ---
@@ -48,8 +53,11 @@ creating a dynamic and immersive visual experience.
 ## 🧠 Technical Notes
 
 - Uses force fields to control particle direction and flow  
+
 - Vortex field creates rotational motion  
+
 - Force field influences particle attraction and movement  
+
 - Designed for real-time rendering performance  
 
 ---
@@ -57,7 +65,9 @@ creating a dynamic and immersive visual experience.
 ## 💡 Tips
 
 - Adjust force strength to change flow intensity  
+
 - Modify vortex settings for different swirl patterns  
+
 - Lower sampling for faster previews  
 
 ---
@@ -110,11 +120,15 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 ## ⚙️ レンダリング設定
 
 - **レンダリングエンジン**: Eevee  
+
 - **サンプリング**: 64  
+
 - **ブルーム**: 有効  
+
 - **ノイズ除去**: なし  
 
 - **解像度**: 4096 × 4096（4K）  
+
 - **出力形式**: MP4（H.264）  
 
 ---
@@ -122,8 +136,11 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 ## 🧠 技術メモ
 
 - フォースフィールドで粒子の流れを制御  
+
 - 渦（Vortex）による回転運動  
+
 - フォースによる引力・動きの制御  
+
 - リアルタイムレンダリングを意識した設計  
 
 ---
@@ -131,7 +148,9 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 ## 💡 ヒント
 
 - フォースの強さを変えることで動きの印象が変化  
+
 - 渦の設定で流れのパターンを調整可能  
+
 - プレビュー時はサンプリングを下げて高速化  
 
 ---
